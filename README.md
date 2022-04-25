@@ -4,5 +4,4 @@ Compilation of dashboards and code, all data anonymized
 1. Freemium Portfolio: PowerBI Strategic Dashboard made for a mobile gaming company to monitor and compare performance on specific KPIs between 3 games.
 2. Project Management: PowerBI Operational Dashboard made for a PMO in order to monitor hours spent on different projects, by deparment and phase.
 3. Freemium Quarterly Report: Tableau Executive report made with the same mobile gaming company dataset. Details a single game's performance for Q3 2021 only.
-
-## More to follow
+4. More projects coming soon
