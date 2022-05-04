@@ -1,5 +1,5 @@
 # Portfolio - WORK IN PROGRESS
-Compilation of dashboards and code, all data anonymized. 
+Compilation of dashboards and code, all data open source or anonymized. 
 
 1. **Freemium Portfolio:** PowerBI Strategic Dashboard made for a mobile gaming company to monitor and compare performance on specific KPIs between 3 games.
 
