@@ -7,4 +7,4 @@ Compilation of dashboards and code, all data anonymized.
 
 3. **Freemium Quarterly Report:** Tableau Executive report made with the same mobile gaming company dataset. Details a single game's performance for Q3 2021 only.
 
-4. More projects coming soon!
+4. **Telecom Customer Clustering:** Python data analysis. Customer segmentation using Kmeans Clustering, also briefly incudes Apriori. The comments are in French and explain the results.
