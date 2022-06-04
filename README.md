@@ -8,3 +8,7 @@ Compilation of dashboards and code, all data open source or anonymized.
 3. **Freemium Quarterly Report:** Tableau Executive report made with the same mobile gaming company dataset. Details a single game's performance for Q3 2021 only.
 
 4. **Telecom Customer Clustering:** Python data analysis. Customer segmentation using Kmeans Clustering, which also briefly includes Apriori. The comments are in French and explain the results.
+
+5. **Stellar Classification:**
+
+6. **Fuel Consumption Regression:**
